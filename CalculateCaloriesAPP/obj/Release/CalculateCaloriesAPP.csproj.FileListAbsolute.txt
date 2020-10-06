@@ -1,0 +1,6 @@
+F:\C# apps\C# _GSD\c#_for_designer\Ex_12\CalculateCaloriesAPP\CalculateCaloriesAPP\bin\Release\CalculateCaloriesAPP.exe.config
+F:\C# apps\C# _GSD\c#_for_designer\Ex_12\CalculateCaloriesAPP\CalculateCaloriesAPP\bin\Release\CalculateCaloriesAPP.exe
+F:\C# apps\C# _GSD\c#_for_designer\Ex_12\CalculateCaloriesAPP\CalculateCaloriesAPP\bin\Release\CalculateCaloriesAPP.pdb
+F:\C# apps\C# _GSD\c#_for_designer\Ex_12\CalculateCaloriesAPP\CalculateCaloriesAPP\obj\Release\CalculateCaloriesAPP.csproj.CoreCompileInputs.cache
+F:\C# apps\C# _GSD\c#_for_designer\Ex_12\CalculateCaloriesAPP\CalculateCaloriesAPP\obj\Release\CalculateCaloriesAPP.exe
+F:\C# apps\C# _GSD\c#_for_designer\Ex_12\CalculateCaloriesAPP\CalculateCaloriesAPP\obj\Release\CalculateCaloriesAPP.pdb
